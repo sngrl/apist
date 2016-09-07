@@ -25,6 +25,5 @@
         "psr-0": {
             "SleepingOwl\\Apist": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
