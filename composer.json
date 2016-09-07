@@ -26,5 +26,5 @@
             "SleepingOwl\\Apist": "src/"
         }
     },
-    "minimun-stability": "stable"
+    "minimum-stability": "stable"
 }
